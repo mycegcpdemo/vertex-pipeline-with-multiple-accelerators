@@ -1,0 +1,13 @@
+# Important to set versions of libraries you plan to use
+tensorflow==2.11.0
+tensorflow-datasets
+Pillow
+pandas
+numpy==1.21.6
+scipy
+urllib3
+matplotlib
+google-cloud-aiplatform
+kfp==2.0.0-beta.14
+#google-cloud-pipeline-components==0.2.0
+google-cloud-storage==2.8.0
